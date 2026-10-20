@@ -1,0 +1,3 @@
+body { font-family: system-ui, sans-serif; max-width: 600px; margin: 40px auto; padding: 0 16px; }
+li { padding: 8px; cursor: pointer; }
+li.done { text-decoration: line-through; color: #888; }
